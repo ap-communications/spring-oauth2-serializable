@@ -7,6 +7,19 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>spring-oauth2-serializable</name>
+	<description>Provide serializable OAuth 2</description>
+	<url>https://github.com/ap-com/spring-oauth2-serializable</url>
+	<scm>
+		<connection>scm:git:git://github.com/ap-com/spring-oauth2-serializable.git</connection>
+		<developerConnection>scm:git:ssh://github.com:ap-com/spring-oauth2-serializable.git</developerConnection>
+		<url>https://github.com/ap-com/spring-oauth2-serializable</url>
+	</scm>
+	<licenses>
+		<license>
+			<name>Unlicensed</name>
+			<url>http://unlicense.org/</url>
+		</license>
+	</licenses>
 	<properties>
 		<spring.security.version>4.2.0.RELEASE</spring.security.version>
 		<spring.boot.version>1.4.0.RELEASE</spring.boot.version>
