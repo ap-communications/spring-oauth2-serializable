@@ -23,9 +23,9 @@ And add repository settings
 ```xml
   <repositories>
     <repository>
-      <id>github_apc-hattori_spring-oauth2-serializable</id>
-      <name>github.com/apc-hattori/spring-oauth2-serializable</name>
-      <url>https://raw.githubusercontent.com/apc-hattori/spring-oauth2-serializable/repo</url>
+      <id>github_ap-com_spring-oauth2-serializable</id>
+      <name>github.com/ap-com/spring-oauth2-serializable</name>
+      <url>https://raw.githubusercontent.com/ap-com/spring-oauth2-serializable/repo</url>
     </repository>
   </repositories>
 ```
