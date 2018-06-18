@@ -13,7 +13,7 @@ Maven usage:
       -->
     </dependency>
     <dependency>
-      <groupId>jp.co.ap_com</groupId>
+      <groupId>jp.co.ap-com</groupId>
       <artifactId>spring-oauth2-serializable</artifactId>
       <version>0.0.1</version>
     </dependency>
