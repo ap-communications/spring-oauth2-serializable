@@ -20,6 +20,14 @@
 			<url>http://unlicense.org/</url>
 		</license>
 	</licenses>
+	<developers>
+		<developer>
+			<name>Kazuya HATTORI</name>
+			<email>k_hattori@ap-com.co.jp</email>
+			<organization>AP Communications</organization>
+			<organizationUrl>https://www.ap-com.co.jp</organizationUrl>
+		</developer>
+	</developers>
 	<properties>
 		<spring.security.version>4.2.0.RELEASE</spring.security.version>
 		<spring.boot.version>1.4.0.RELEASE</spring.boot.version>
