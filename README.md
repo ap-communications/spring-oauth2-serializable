@@ -15,7 +15,7 @@ Maven usage:
     <dependency>
       <groupId>jp.co.ap-com</groupId>
       <artifactId>spring-oauth2-serializable</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </dependency>
 ```
 
