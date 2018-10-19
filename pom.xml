@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>jp.co.ap-com</groupId>
 	<artifactId>spring-oauth2-serializable</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>spring-oauth2-serializable</name>
 	<description>Provide serializable OAuth 2</description>
